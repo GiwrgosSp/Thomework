@@ -1,0 +1,7 @@
+com\mycompany\thomework\daos\TrainerDao.class
+com\mycompany\thomework\entities\Trainer.class
+com\mycompany\thomework\configuration\ThomeworkInitializer.class
+com\mycompany\thomework\controllers\TrainersController.class
+com\mycompany\thomework\services\TrainerService.class
+com\mycompany\thomework\configuration\ThomeworkConfiguration.class
+com\mycompany\thomework\entities\Trainer_.class
